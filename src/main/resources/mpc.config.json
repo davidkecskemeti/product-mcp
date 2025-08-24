@@ -1,0 +1,16 @@
+{
+  "globalShortcut": "",
+  "mcpServers": {
+    "demo": {
+      "name": "product-server",
+      "command": "C:/Program Files/Amazon Corretto/jdk21.0.8_9/bin/java.exe",
+      "args": [
+        "-jar",
+        "C:/Users/DavidK/projects/product-mcp/target/product-mcp.jar"
+      ],
+      "protocolVersion": "latest",
+      "workingDirectory": "C:/Users/DavidK/projects/product-mcp/",
+      "environment": {}
+    }
+  }
+}
